@@ -1,0 +1,3 @@
+# CloudRise deliberately has zero Python package dependencies.
+# Python 3.10+ and Alpaca's official CLI are the only runtime requirements.
+

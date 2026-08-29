@@ -1,0 +1,11 @@
+.git
+.env
+.venv
+__pycache__
+*.py[cod]
+runtime/*.jsonl
+runtime/*.json
+work
+dist
+build
+*.egg-info
